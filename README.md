@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**princedev467/princedev467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+💻 Full Stack Developer (MERN Stack)  
+🚀 Passionate about building web applications  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- React.js
+- Node.js, Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Learning Management System
+- Movie Booking System
+- Budget-App
+- Travel Website
+  
+## 🎓 Education
+- BCA – Sutex Bank College of Computer Applications and Science
+- Higher Secondary – Risen Modern School-Tapovan Group Of school
+  
+## 📫 Contact Me
+- Email: princemovaliya467@gmail.com
+- LinkedIn: https://linkedin.com/in/prince-movaliya-7246242b3
