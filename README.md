@@ -1,8 +1,6 @@
-# Hi, I'm Prince 👋
+# Hi, I'm Prince Movaliya👋
 
-🎓 BCA Graduate  
-💻 Full Stack Developer (MERN Stack)  
-🚀 Passionate about building web applications  
+🎓 BCA Graduate  || 💻 Full Stack Developer (MERN Stack)  || 🚀 Passionate about building web applications  
 
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript
