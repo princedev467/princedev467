@@ -5,8 +5,9 @@
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript
 - React.js
+- Tailwind CSS 
 - Node.js, Express.js
-- MongoDB
+- MongoDB, MySQL
 
 ## 📂 Projects
 - Learning Management System
