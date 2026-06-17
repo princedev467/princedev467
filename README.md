@@ -1,4 +1,4 @@
-modify and add dynmic style ,# Hi, I'm Prince Movaliya👋
+# Hi, I'm Prince Movaliya👋
 
 🎓 BCA Graduate  || 💻 Full Stack Developer (MERN Stack)  || 🚀 Passionate about building web applications  
 
