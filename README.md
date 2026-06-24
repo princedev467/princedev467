@@ -33,28 +33,27 @@ Goal: Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-<div align="center">
-
-### 🎨 Frontend
-
+<p>
+<b>🎨 Frontend :</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+</p>
 
-### ⚙️ Backend
-
+<p>
+<b>⚙️ Backend :</b><br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### 🗄️ Database
+<p>
+<b>🗄️ Database :</b><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🔧 Tools
-
+<p>
+<b>🔧 Tools :</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-</div>
-
+</p>
 ---
 
 ## 🎓 Education
@@ -154,16 +153,16 @@ Goal: Software Engineer
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p>
 <a href="mailto:princemovaliya56@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/prince-movaliya-7246242b3">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/princedev467">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
