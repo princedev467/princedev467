@@ -153,16 +153,18 @@ Goal: Software Engineer
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="mailto:princemovaliya56@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:princemovaliya56@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/prince-movaliya-7246242b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/prince-movaliya-7246242b3">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/princedev467">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/princedev467">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
 </p>
