@@ -144,7 +144,7 @@ Goal: Software Engineer
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=princedev467&show_icons=true&theme=tokyonight" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedev467&layout=compact&theme=tokyonight" />
 
 </div>
