@@ -1,4 +1,9 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince Movaliya E&show_icons=true&theme=radical)
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descAlignY=65"/>
+
+</div>
+
 # Hi, I'm Prince Movaliya👋
 
 🎓 BCA Graduate  || 💻 Full Stack Developer (MERN Stack)  || 🚀 Passionate about building web applications  
