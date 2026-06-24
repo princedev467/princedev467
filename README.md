@@ -1,8 +1,8 @@
-<div align="center">
+[<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%18Developer%18|%18MERN%18Stack%18Developer&descAlignY=65"/>
 
-</div>
+</div>](https://readme-typing-svg.demolab.com?lines=Hi+I%27m+Prince)
 
 <p align="center">
 
