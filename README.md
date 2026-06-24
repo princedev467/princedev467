@@ -6,12 +6,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Prince+Movaliya;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Amazing+User+Experiences;React+%7C+Node.js;Let's+Build+Something+Awesome!" /> </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princedev467&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=princedev467?label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/princedev467?label=FOLLOWERS&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LIVES-SURAT,%20GUJARAT-success?style=for-the-badge" />
