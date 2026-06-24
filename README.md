@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince Movaliya E&show_icons=true&theme=radical)
 # Hi, I'm Prince Movaliya👋
 
 🎓 BCA Graduate  || 💻 Full Stack Developer (MERN Stack)  || 🚀 Passionate about building web applications  
