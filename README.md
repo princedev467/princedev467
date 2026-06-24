@@ -1,11 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%18Developer%18|%18MERN%18Stack%18Developer&descAlignY=65"/>
+
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js)](https://git.io/typing-svg)
 
 </div>
 
-# Hi, I'm Prince Movaliya👋
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrinceMovaliya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PrinceMovaliya?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVES-SURAT,%20GUJARAT-success?style=for-the-badge" />
+</p>
 🎓 BCA Graduate  || 💻 Full Stack Developer (MERN Stack)  || 🚀 Passionate about building web applications  
 
 ## 🔧 Tech Stack
