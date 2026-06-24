@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrinceMovaliya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PrinceMovaliya?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=princedev467&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/princedev467?label=FOLLOWERS&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEV-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LIVES-SURAT,%20GUJARAT-success?style=for-the-badge" />
 </p>
