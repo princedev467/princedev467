@@ -1,13 +1,13 @@
-[<div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%18Developer%18|%18MERN%18Stack%18Developer&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prince%20Movaliya&fontSize=55&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=65"/>
 
-</div>](https://readme-typing-svg.demolab.com?lines=Hi+I%27m+Prince)
+</div>
 
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js" />
+  </a>
 </p>
 
 <p align="center">
