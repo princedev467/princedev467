@@ -55,6 +55,7 @@ Goal: Software Engineer
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
+---
 
 ## 🎓 Education
 
@@ -66,6 +67,8 @@ Goal: Software Engineer
 
 </td>
 <td>
+
+---
 
 ### Bachelor of Computer Applications (BCA)
 
