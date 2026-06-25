@@ -54,7 +54,7 @@ Goal: Software Engineer
 <b>🔧 Tools :</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
----
+
 
 ## 🎓 Education
 
