@@ -169,4 +169,9 @@ Goal: Software Engineer
   <a href="https://github.com/princedev467">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://your-portfolio.vercel.app">
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+</a>
 </p>
