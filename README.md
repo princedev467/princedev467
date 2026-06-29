@@ -142,15 +142,22 @@ Goal: Software Engineer
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=princedev467&show_icons=true&theme=tokyonight" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedev467&layout=compact&theme=tokyonight" />
-
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/princedev467">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princedev467&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="princedev467's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=princedev467&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="princedev467's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=princedev467&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Prince Movaliya's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=princedev467&theme=tokyonight&radius=10" alt="princedev467's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 ---
 
