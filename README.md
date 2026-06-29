@@ -16,7 +16,11 @@
   <img src="https://img.shields.io/badge/LIVES-SURAT,%20GUJARAT-success?style=for-the-badge" />
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s0N2M4eDk0aWg4OHN1OWV6d3h0Y3Q4NzV0ZnY4M3Z4Z2xvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 Name: Prince Movaliya
@@ -28,10 +32,23 @@ Goal: Software Engineer
 
 * 🔭 Building scalable web applications
 * 🌱 Learning System Design & Advanced Backend
-* 💡 Passionate about clean code
+* 💡 Passionate about clean, maintainable code
 * 🚀 Exploring new technologies every day
+* ⚡ Love building modern full-stack applications
+* 🤝 Open to collaboration and freelance opportunities
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 <h3>🛠️ Tech Stack</h3>
 
