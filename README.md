@@ -27,9 +27,9 @@ Name: Prince Movaliya
 Role: Full Stack Developer
 Location: Surat, Gujarat, India
 Specialization: MERN Stack Development
-Current Focus :: Next.js • TypeScript
+Current Focus : Next.js • TypeScript
 Goal: Software Engineer
-Status :: Available for Opportunities
+Status : Available for Opportunities
 ```
 
 * 🔭 Building scalable web applications
@@ -209,9 +209,6 @@ Status :: Available for Opportunities
   <a href="https://protfoliyo-flame.vercel.app/">
   <img src="https://skillicons.dev/icons?i=vercel" width="45" />
 </a>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700">
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
