@@ -165,8 +165,13 @@ Goal: Software Engineer
   </a>
 </p>
 
+![Top language]
+<p align="center">
+  <a href="https://github.com/princedev467">
+    <img height="180em" src="https://stats.pphat.top/languages?username=princedev467" alt="Top Languages" />
+  </a>
+</p>
 
-![Top language](https://stats.pphat.top/languages?username=princedev467)
 <br/>
 
 
