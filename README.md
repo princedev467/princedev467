@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Prince+Movaliya;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Amazing+User+Experiences;React.js+%7C+Node.js;Let's+Build+Something+Awesome!" /> </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Prince+Movaliya;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Amazing+User+Experiences;React.js+%7C+Node.js;Let's+Build+Something+Awesome!" />
+  </a>
 </p>
 
 <p align="center">
