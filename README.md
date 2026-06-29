@@ -18,16 +18,18 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+<table border="0">
+<tr border="0">
+<td width="55%"border="0">
 
 ```yaml
 Name: Prince Movaliya
 Role: Full Stack Developer
 Location: Surat, Gujarat, India
 Specialization: MERN Stack Development
+Current Focus :: Next.js • TypeScript
 Goal: Software Engineer
+Status :: Available for Opportunities
 ```
 
 * 🔭 Building scalable web applications
