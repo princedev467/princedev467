@@ -165,9 +165,8 @@ Goal: Software Engineer
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedev467&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+![Top language](https://stats.pphat.top/languages?username=princedev467)
 <br/>
 
 
