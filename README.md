@@ -147,7 +147,7 @@ Goal: Software Engineer
   <a href="https://github.com/princedev467">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princedev467&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="princedev467's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=princedev467&theme=nightowl&hide_border=true&cache_seconds=86400" alt="princedev467's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=princedev467&theme=nightowl&hide_border=true&cache_seconds=86400" alt="princedev467's GitHub Streak" width="42%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=princedev467&theme=nightowl&radius=10" alt="princedev467's Activity Graph" />
@@ -163,7 +163,9 @@ Goal: Software Engineer
   </a>
 </p>
 
+<p align="center">
 ![Top language](https://stats.pphat.top/languages?username=princedev467)
+  </p>
 <br/>
 
 
@@ -190,3 +192,9 @@ Goal: Software Engineer
   <img src="https://skillicons.dev/icons?i=vercel" width="45" />
 </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
