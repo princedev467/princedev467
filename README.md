@@ -141,18 +141,20 @@ Goal: Software Engineer
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 ---
+## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/princedev467">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princedev467&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="princedev467's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=princedev467&theme=nightowl&hide_border=true&cache_seconds=86400" alt="princedev467's GitHub Streak" width="42%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=princedev467&theme=nightowl&radius=10" alt="princedev467's Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=princedev467&show_icons=true&theme=nightowl&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=princedev467&theme=nightowl&hide_border=true&border_radius=10" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedev467&layout=compact&theme=nightowl&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=princedev467&theme=nightowl&hide_border=true&radius=10" />
+</p>
 
 ---
 
