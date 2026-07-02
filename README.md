@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Prince+Movaliya;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Amazing+User+Experiences;React.js+%7C+Node.js;Let's+Build+Something+Awesome!" />
+ <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Prince+Movaliya;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Amazing+User+Experiences;React.js+%7C+Node.js;Let's+Build+Something+Awesome!" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Status : Available for Opportunities
 
 <p>
 <b>🎨 Frontend :</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,typescript" />
 </p>
 
 <p>
