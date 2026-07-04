@@ -346,42 +346,25 @@ Status : Available for Opportunities
 ## 🤝 Connect With Me
 
 
-
 <p align="center">
-
   <a href="mailto:princemovaliya56@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/prince-movaliya-7246242b3">
-
-   <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-
-  </a> 
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-  <a href="https://github.com/princedev467">
-
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-
+  <a href="https://linkedin.com/in/prince-movaliya-7246242b3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/princedev467" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-  
-
-  <a href="https://protfoliyo-flame.vercel.app/">
-
-  <img src="https://skillicons.dev/icons?i=vercel" width="45" />
-
-</a>
-
+  <a href="https://protfoliyo-flame.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" />
+  </a>
 </p>
 
 <div align="center">
