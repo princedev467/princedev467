@@ -293,7 +293,7 @@ Status : Available for Opportunities
 
   <a href="https://github.com/princedev467">
 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princedev467&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="princedev467's GitHub Stats" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princedev467&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="princedev467's GitHub Stats" />
 
   </a>
 
@@ -323,7 +323,7 @@ Status : Available for Opportunities
 
   <a href="https://github.com/princedev467">
 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=princedev467&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=princedev467&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
 
   </a>
 
@@ -350,7 +350,6 @@ Status : Available for Opportunities
 <p align="center">
 
   <a href="mailto:princemovaliya56@gmail.com">
-
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 
   </a>
@@ -359,7 +358,7 @@ Status : Available for Opportunities
 
   <a href="https://linkedin.com/in/prince-movaliya-7246242b3">
 
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+   <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 
   </a> 
 
@@ -369,7 +368,7 @@ Status : Available for Opportunities
 
   <a href="https://github.com/princedev467">
 
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
 
   </a>
 
