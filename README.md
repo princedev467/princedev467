@@ -1,4 +1,4 @@
-fix this redme file mobile frendly and also in this typing word size font -family not look good also change this ,<div align="center">
+<div align="center">
 
 
 
