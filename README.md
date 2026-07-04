@@ -36,70 +36,16 @@
 
 
 
-## 👨‍💻 About Me
-
-
-
-<table border="0">
-
-<tr border="0">
-
-<td width="55%"border="0">
-
-
-
-```yaml
-
+## 👨‍💻 About Me <table border="0"> <tr border="0"> <td width="55%"border="0">
+yaml
 Name: Prince Movaliya
-
 Role: Full Stack Developer
-
 Location: Surat, Gujarat, India
-
 Specialization: MERN Stack Development
-
 Current Focus : Next.js • TypeScript
-
 Goal: Software Engineer
-
 Status : Available for Opportunities
-
-```
-
-
-
-* 🔭 Building scalable web applications
-
-* 🌱 Learning System Design & Advanced Backend
-
-* 💡 Passionate about clean, maintainable code
-
-* 🚀 Exploring new technologies every day
-
-* ⚡ Love building modern full-stack applications
-
-* 🤝 Open to collaboration and freelance opportunities
-
-
-
-</td>
-
-
-
-<td width="45%" align="center">
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  alt="Coding GIF">
-
-
-
-</td>
-
-</tr>
-
-</table>
-
+* 🔭 Building scalable web applications * 🌱 Learning System Design & Advanced Backend * 💡 Passionate about clean, maintainable code * 🚀 Exploring new technologies every day * ⚡ Love building modern full-stack applications * 🤝 Open to collaboration and freelance opportunities </td> <td width="45%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"> </td> </tr> </table>
 
 
 ---
