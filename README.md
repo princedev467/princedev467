@@ -77,7 +77,7 @@ Status : Available for Opportunities
 
 <b>🎨 Frontend :</b><br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,typescript,vue,nuxt" />
 
 </p>
 
