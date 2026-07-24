@@ -84,13 +84,14 @@ Status : Available for Opportunities
 
 <p>
 <b>⚡ Search & Cache :</b><br><br>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Typesense-FF6B6B?style=for-the-badge&logo=typesense&logoColor=white" />
+  
+<img src="https://skillicons.dev/icons?i=redis,typesense" />
+
 </p>
 
 <p>
 <b>🛠️ Dev Tools :</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,tilt" />
 <img src="https://img.shields.io/badge/Tilt-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
