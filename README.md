@@ -65,11 +65,6 @@ Status : Available for Opportunities
 
 ---
 
-
-
-
-
-```html
 <h3>🛠️ Tech Stack</h3>
 
 <p>
@@ -98,7 +93,7 @@ Status : Available for Opportunities
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 <img src="https://img.shields.io/badge/Tilt-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
-```
+
 ---
 
 
