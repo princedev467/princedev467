@@ -69,50 +69,36 @@ Status : Available for Opportunities
 
 
 
+```html
 <h3>🛠️ Tech Stack</h3>
 
-
-
 <p>
-
 <b>🎨 Frontend :</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,typescript,vue,nuxt" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vue,nuxt" />
 </p>
 
-
-
 <p>
-
 <b>⚙️ Backend :</b><br><br>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </p>
-
-
 
 <p>
-
-<b>🗄️ Database :</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
+<b>🗄️ Database & ORM :</b><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
 </p>
-
-
 
 <p>
-
-<b>🔧 Tools :</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
+<b>⚡ Search & Cache :</b><br><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Typesense-FF6B6B?style=for-the-badge&logo=typesense&logoColor=white" />
 </p>
 
-
-
+<p>
+<b>🛠️ Dev Tools :</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://img.shields.io/badge/Tilt-0F172A?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+```
 ---
 
 
